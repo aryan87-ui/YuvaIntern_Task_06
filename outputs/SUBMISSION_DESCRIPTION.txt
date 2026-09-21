@@ -1,0 +1,9 @@
+YuvaIntern Task 06 is an end-to-end data analytics capstone based on the Sample Superstore dataset. The project integrates the complete workflow developed throughout the internship: data exploration, cleaning and feature engineering, visualization, statistical analysis, and machine learning.
+
+The dataset contains 9,994 records and 21 original columns. The analysis examines sales and profit trends, category and regional performance, discount-profit relationships, statistical differences between business groups, and sales prediction.
+
+The statistical analysis includes Pearson correlation, Welch's t-test, and one-way ANOVA. The machine learning stage compares Linear Regression, baseline Random Forest, and a tuned Random Forest using MAE, RMSE, and R². The tuned Random Forest was optimized using 5-fold GridSearchCV and achieved MAE = 196.7443, RMSE = 667.6206, and R² = 0.2454 on the test set.
+
+The repository includes reproducible Python scripts, generated visualizations, model comparison outputs, predictions, a cleaned dataset, and a comprehensive DOCX report. The report documents the methodology, findings, limitations, recommendations, and future scope.
+
+The project is designed to demonstrate a complete and reproducible business data analytics workflow from raw data to actionable insights and predictive modeling.
