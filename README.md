@@ -323,6 +323,19 @@ The report contains:
 - Conclusion
 - Reproducibility notes
 
+## Author
+
+**Aryan Verma**
+
+B.Tech Computer Science Engineering (CSE)
+Data Analytics Intern
+
+This project was completed as part of the **YuvaIntern Data Analytics Internship – Task 06 (End-to-End Data Analysis Capstone)**.
+
+### Connect with Me
+
+* GitHub: `https://github.com/aryan87-ui`
+
 ## Conclusion
 
 This project demonstrates an end-to-end business data analytics workflow, from raw data exploration and cleaning to statistical analysis and predictive modeling. It integrates the skills developed throughout the internship and provides a reproducible foundation for further business intelligence and machine learning work.
